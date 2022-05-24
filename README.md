@@ -37,4 +37,8 @@ At the time of returning the book librarian first check the student id and then 
 ![student ](https://user-images.githubusercontent.com/98368275/170022967-14683ba3-268b-46e1-a44f-2fa9536cd0ac.png)
 ![new book](https://user-images.githubusercontent.com/98368275/170023006-4066f134-227b-453e-a337-eed2ba4381df.png)
 
+# Statistic
+![statistic](https://user-images.githubusercontent.com/98368275/170025119-39e50d0e-4a17-4a5e-b80a-22e26477edb5.png)
+
 etc.
+
